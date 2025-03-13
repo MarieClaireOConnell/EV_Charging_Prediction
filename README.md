@@ -59,6 +59,6 @@ Date: November 24, 2024
    ```
 3. Run the Jupyter notebooks to explore and test models.
 
-## License
-This project is licensed under the MIT License.
+
+This project was completed as part of the University of Washington's MSIM—Data Science III: Scaling, Applications, and Ethics.
 
